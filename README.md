@@ -34,10 +34,6 @@ Main.cpp に本リポジトリのソースコードをコピーします。
 ショートカットキー
 Ctrl + S: 手動保存
 
-<img width="995" height="785" alt="スクリーンショット 2026-05-05 113246" src="https://github.com/user-attachments/assets/52a17635-c7e9-4313-88a6-fd71903211d3" />
-
-Ctrl + N: 新規ノート作成
-
 Ctrl + F: 検索バーへフォーカス
 
 Ctrl + Tab: ノートの切り替え
@@ -56,3 +52,7 @@ READMEをより良くするためのTips
 スクリーンショットの追加: screenshot.png をリポジトリに入れ、![Screenshot](./screenshot.png) と記述して動作画面を見せると、偏差値の高いリポジトリとして評価されやすくなります。
 
 開発時間: 「半日でプロトタイプから現在の機能まで実装」といった一文を About 等に加えると、開発速度の速さをアピールできます。
+
+
+
+<img width="995" height="785" alt="スクリーンショット 2026-05-05 113246" src="https://github.com/user-attachments/assets/52a17635-c7e9-4313-88a6-fd71903211d3" />
